@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ABSCBN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/ABS-CBNHD.png" group-title="PINOY",PH: ABSCBN
+#EXTVLCOPT:network-caching=1000
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/index_800_av-p.m3u8?sd=10&rebase=on&id=AgDefyo8uBzaVuXhJF3uQDvC7eAsLVMPUgwwZKtpp0p%2fsqkCACH+56oEHtLBePM8sknXBzQTD2VrNQ%3d%3d&hdntl=exp=1562784613~acl=%2f*~data=hdntl~hmac=5eecae96a8acb464bb1d605b0c8a641186bd4df4e52fe3a89d897024833254f3
+
+#EXTINF:-1 tvg-name="DZMM" tvg-logo="https://img.abs-cbnnews.com/2017/images/masthead-dzmm-logo.png" group-title="PINOY",PH: DZMM
+#EXTVLCOPT:network-caching=1000
+https://iwantpradals2-lh.akamaihd.net/i/ocpdzmm_1@520817/index_800_av-b.m3u8?sd=10&rebase=on&id=AgDefyo8uBzaZvviJF23Umpv5ZiIYqozvFYZk4Dqa%2frzpXesUpxJwr2ntMEVp+YeeqaujuQlVtkJtw%3d%3d&hdntl=exp=1562784891~acl=%2f*~data=hdntl~hmac=1557dff937040f8ca47928c976f02d81bc7ddc56e3fd52b2715407ddf88f75d7
+
+#EXTINF:-1 tvg-name="NEWS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NEWS5.svg/1200px-NEWS5.svg.png" group-title="PINOY",PH: NEWS5
+#EXTVLCOPT:network-caching=1000
+http://stream1.news5.ph/n5e/tv5_2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN PH" tvg-logo="https://c7.uihere.com/files/1013/471/618/cebu-manila-pasay-philippine-airlines-first-philippine-industrial-park-news-thumb.jpg" group-title="PINOY",PH: CNNPH
+#EXTVLCOPT:network-caching=1000
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+
+#EXTINF:-1, group-title="PINOY", 5 (TV5)
+http://stream1.news5.ph/n5e/tv5_2/playlist.m3u8
+#EXTINF:-1, group-title="PH Local TV", 5 PLUS
+http://stream1.news5.ph:1935/n5e/aksyon/chunklist_w1575736103.m3u8
+
+#EXTINF:-1, group-title="PINOY", SHOP TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
+#EXTINF:-1, group-title="PINOY", LIFE TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/chunklist_w1653262029.m3u8
+#EXTINF:-1, group-title="PINOY", POP LIFE
+https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
+#EXTINF:-1, group-title="PINOY", PILIPINAS HD
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
+#EXTINF:-1, group-title="PINOY", INQUIRER TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3u8
